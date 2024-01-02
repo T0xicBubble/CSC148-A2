@@ -1,0 +1,10 @@
+.idea
+.hypothesis
+.pytest_cache
+__pycache__
+files
+Playground.py
+Playground2.py
+plagiarism.txt
+test_compress.py
+test_huffman_properties_basic.py
